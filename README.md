@@ -4,6 +4,7 @@ This repository contains the analysis of bank loan datasets, Finance_1 and Finan
 The project includes detailed data exploration, analysis, and visualizations to understand trends and patterns in loan data. This work was carried out as part of a team of 4 to 5 members, and we collaboratively solved the objectives using various tools, including Excel, Power BI, Tableau, and SQL.
 
 
+
 Datasets
 
 Finance_1
@@ -27,7 +28,9 @@ Verification statuses
 Home ownership details
 
 
+
 These datasets were cleaned, prepared, and merged for analysis where needed.
+
 
 
 Objectives
@@ -54,6 +57,7 @@ Home Ownership vs Last Payment Date Statistics
 
   Examined the relationship between borrowers' home ownership status and their last payment dates.
   
+  
 
 Insights Generated
 
@@ -66,6 +70,7 @@ Verified borrowers tend to make higher total payments compared to non-verified b
 Specific states showed higher loan approval rates, while certain months experienced spikes in loan activities.
 
 Borrowers with home ownership status showed different payment patterns compared to renters or those with other ownership types.
+
 
 
 Conclusion
