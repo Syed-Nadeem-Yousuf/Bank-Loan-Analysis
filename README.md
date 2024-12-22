@@ -5,24 +5,31 @@ The project includes detailed data exploration, analysis, and visualizations to 
 Datasets
 
 Finance_1
+
 •	This dataset contains information on:
 •	Loan amount details
 •	Borrower profiles
 •	Loan statuses
 
 Finance_2
+
 •	This dataset includes:
 •	Payment information
 •	Verification statuses
 •	Home ownership details
 
+
 These datasets were cleaned, prepared, and merged for analysis where needed.
+
 
 Objectives
 
+
 The analysis focused on answering the following key questions:
+
 Year-wise Loan Amount Statistics
 •	Analysed how the total loan amounts varied year by year.
+
 Grade and Sub-grade Wise Revolving Balance (revol_bal)
 •	Investigated the distribution of revolving balances across different loan grades and sub-grades.
 
