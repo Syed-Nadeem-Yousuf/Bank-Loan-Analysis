@@ -42,6 +42,7 @@ State-wise and Month-wise Loan Status
 Home Ownership vs Last Payment Date Statistics
 •	Examined the relationship between borrowers' home ownership status and their last payment dates.
 
+
 Insights Generated
 
 •	Year-wise trends revealed a steady increase in loan issuance, highlighting the financial institution's growth and lending policies.
@@ -53,6 +54,8 @@ Insights Generated
 •	Specific states showed higher loan approval rates, while certain months experienced spikes in loan activities.
 
 •	Borrowers with home ownership status showed different payment patterns compared to renters or those with other ownership types.
+
+
 Conclusion
 
 This project demonstrates my ability to clean, analyse, and extract actionable insights from financial datasets. The repository serves as a showcase of my analytical skills and understanding of real-world data. Working collaboratively as a team and utilizing multiple tools, we successfully solved the same objectives across Excel, Power BI, Tableau, and SQL.
