@@ -1,21 +1,28 @@
 # Bank-Loan-Analysis
 This repository contains the analysis of bank loan datasets, Finance_1 and Finance_2, which were part of a project during my Data Analytics program. The primary objective of this analysis was to extract meaningful insights and address specific queries provided by the mentor.
+
 The project includes detailed data exploration, analysis, and visualizations to understand trends and patterns in loan data. This work was carried out as part of a team of 4 to 5 members, and we collaboratively solved the objectives using various tools, including Excel, Power BI, Tableau, and SQL.
 
 Datasets
 
 Finance_1
 
-•	This dataset contains information on:
+This dataset contains information on:
+
 •	Loan amount details
+
 •	Borrower profiles
+
 •	Loan statuses
 
 Finance_2
 
-•	This dataset includes:
+This dataset includes:
+
 •	Payment information
+
 •	Verification statuses
+
 •	Home ownership details
 
 
@@ -26,6 +33,7 @@ Objectives
 
 
 The analysis focused on answering the following key questions:
+
 
 Year-wise Loan Amount Statistics
 •	Analysed how the total loan amounts varied year by year.
@@ -44,6 +52,7 @@ Home Ownership vs Last Payment Date Statistics
 
 
 Insights Generated
+
 
 •	Year-wise trends revealed a steady increase in loan issuance, highlighting the financial institution's growth and lending policies.
 
